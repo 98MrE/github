@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yxm-auth" />
+        <module name="yxm-dao" />
+        <module name="yxm-search" />
+        <module name="yxm-utils" />
+        <module name="yxm-trarch" />
+        <module name="yxm-biz" />
+        <module name="yxm-bean" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
